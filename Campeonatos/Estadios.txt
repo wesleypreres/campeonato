@@ -1,0 +1,50 @@
+<list>
+  <campeonatos.Estadios>
+    <codigo>1</codigo>
+    <nomeEstadio>Maracanã</nomeEstadio>
+    <cidade>Rio de Janeiro</cidade>
+    <estado>RJ</estado>
+    <capacidade>78838</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+  <campeonatos.Estadios>
+    <codigo>2</codigo>
+    <nomeEstadio>Mané Garrincha</nomeEstadio>
+    <cidade>Brasília </cidade>
+    <estado>DF</estado>
+    <capacidade>72788</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+  <campeonatos.Estadios>
+    <codigo>3</codigo>
+    <nomeEstadio>Morumbi</nomeEstadio>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <capacidade>72039</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+  <campeonatos.Estadios>
+    <codigo>4</codigo>
+    <nomeEstadio>Castelão</nomeEstadio>
+    <cidade>Fortaleza</cidade>
+    <estado>CE</estado>
+    <capacidade>63903</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+  <campeonatos.Estadios>
+    <codigo>5</codigo>
+    <nomeEstadio>Mineirão</nomeEstadio>
+    <cidade>Belo Horizonte</cidade>
+    <estado>MG</estado>
+    <capacidade>61846</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+  <campeonatos.Estadios>
+    <codigo>6</codigo>
+    <nomeEstadio>Arruda</nomeEstadio>
+    <cidade>Recife</cidade>
+    <estado>PE</estado>
+    <capacidade>60044</capacidade>
+    <ListaJogos/>
+  </campeonatos.Estadios>
+</list>

@@ -1,0 +1,74 @@
+<list>
+  <campeonatos.Jogos>
+    <codigo>1</codigo>
+    <data>01/12/2019</data>
+    <timeA>São Paulo</timeA>
+    <timeB>Santos</timeB>
+    <renda>85627.21</renda>
+    <publico>65231</publico>
+    <estadios>
+      <codigo>3</codigo>
+      <nomeEstadio>Morumbi</nomeEstadio>
+      <cidade>São Paulo</cidade>
+      <estado>SP</estado>
+      <capacidade>72039</capacidade>
+      <ListaJogos>
+        <campeonatos.Jogos reference="../../.."/>
+      </ListaJogos>
+    </estadios>
+  </campeonatos.Jogos>
+  <campeonatos.Jogos>
+    <codigo>2</codigo>
+    <data>01/12/2019</data>
+    <timeA>Flamengo</timeA>
+    <timeB>Ceará</timeB>
+    <renda>65412.0</renda>
+    <publico>56324</publico>
+    <estadios>
+      <codigo>1</codigo>
+      <nomeEstadio>Maracanã</nomeEstadio>
+      <cidade>Rio de Janeiro</cidade>
+      <estado>RJ</estado>
+      <capacidade>78838</capacidade>
+      <ListaJogos>
+        <campeonatos.Jogos reference="../../.."/>
+      </ListaJogos>
+    </estadios>
+  </campeonatos.Jogos>
+  <campeonatos.Jogos>
+    <codigo>3</codigo>
+    <data>04/12/2019</data>
+    <timeA>Palmeiras </timeA>
+    <timeB>Fluminense</timeB>
+    <renda>74521.0</renda>
+    <publico>69871</publico>
+    <estadios>
+      <codigo>2</codigo>
+      <nomeEstadio>Mané Garrincha</nomeEstadio>
+      <cidade>Brasília </cidade>
+      <estado>DF</estado>
+      <capacidade>72788</capacidade>
+      <ListaJogos>
+        <campeonatos.Jogos reference="../../.."/>
+      </ListaJogos>
+    </estadios>
+  </campeonatos.Jogos>
+  <campeonatos.Jogos>
+    <codigo>4</codigo>
+    <data>04/12/2019</data>
+    <timeA>Bahia</timeA>
+    <timeB>Fortaleza</timeB>
+    <renda>41235.0</renda>
+    <publico>56987</publico>
+    <estadios>
+      <codigo>6</codigo>
+      <nomeEstadio>Arruda</nomeEstadio>
+      <cidade>Recife</cidade>
+      <estado>PE</estado>
+      <capacidade>60044</capacidade>
+      <ListaJogos>
+        <campeonatos.Jogos reference="../../.."/>
+      </ListaJogos>
+    </estadios>
+  </campeonatos.Jogos>
+</list>
